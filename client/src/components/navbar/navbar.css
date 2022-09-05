@@ -1,0 +1,24 @@
+.navbar {
+    background-color: grey;
+    padding: 1.5rem 5rem;
+    font-family: arial;
+}
+
+.navbar-list {
+    display: inline-block;
+}
+
+.navbar-brand {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    margin-left: 5rem;
+    letter-spacing: 0.1rem;
+}

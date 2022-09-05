@@ -1,0 +1,72 @@
+.list-user {
+    border: 2px solid;
+    width: 30%;
+    border-radius: 12px;
+    background-color: #E1AD9D;
+    color: white;
+}
+
+.list-data {
+    margin-top: 2rem;
+    margin-left: 3rem;
+}
+
+.title-user {
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+    letter-spacing: 0.1rem;
+    color: white;
+}
+
+.card-text {
+    margin-left: 2rem;
+    font-size: 14px;
+}
+
+#form-edit {
+    background-color: #b1907b;
+}
+
+#form-edit .card {
+    padding-top: 0.5rem;
+    padding-bottom: 1.5rem;
+}
+
+#form-edit .text-center {
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    font-weight: 700;
+}
+#form-edit .mb-3 {
+    color: white;
+}
+
+#form-edit .col {
+    text-align: center;
+    margin-top: 0.8rem;
+}
+
+#form-edit .col button {
+    background-color: red;
+    border: 0px;
+    color: white;
+    font-size: 12px;
+    border-radius: 10px;
+    padding: 0.3rem 0.5rem;
+}
+
+#form-edit .offset-1 button {
+    background-color: yellow;
+    color: black;
+}
+
+#player-detail button {
+    border: 0px;
+    background-color: black;
+    color: white;
+    padding: 0.5rem 1rem;
+    font-size: 12px;
+    border-radius: 12px;
+}
